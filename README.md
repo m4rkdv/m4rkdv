@@ -70,7 +70,6 @@ En cuanto a herramientas, estoy familiarizado con **VS Code**, **Visual Studio**
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Android_Studio_icon.svg" alt="android-studio" width="40" height="40"/>
 </p>
 </p>
 
