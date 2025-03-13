@@ -37,5 +37,4 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4rkdv&show_icons=true&locale=en&layout=compact" alt="top-languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4rkdv&show_icons=true&locale=en" alt="github-stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rkdv&" alt="streak-stats" />
 </p>
