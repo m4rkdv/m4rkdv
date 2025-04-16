@@ -23,7 +23,8 @@
 ---
 
 ### 🌟 Proyectos destacados:
-- **Ecommerce con Laravel y MercadoPago**: Desarrollo completo de una plataforma de comercio electrónico para una tienda de repuestos de motos, integrando pasarelas de pago y gestión de inventario.
+- **Ecommerce con Laravel y MercadoPago**: Desarrollo completo de una plataforma de comercio electrónico para una tienda de repuestos de motos, integrando pasarelas de pago y gestión de inventario.[Ver código](https://github.com/m4rkdv/laravel-ecommerce)
+- **Task List con Next.js y Turso**: Aplicación full-stack para gestión de tareas con TypeScript, Next.js y base de datos SQLite (Turso). [Ver código](https://github.com/m4rkdv/task-list)
 - **Sistema de turnos unificado**: Aplicación web, de escritorio y móvil para la gestión de turnos en un consultorio dental.
 - **App móvil en Kotlin**: Desarrollo de una aplicación móvil como parte de un proyecto universitario.
 - **Proyectos con WordPress**: Creación de sitios web y gestión de contenidos antes de mi formación universitaria.
@@ -44,6 +45,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
