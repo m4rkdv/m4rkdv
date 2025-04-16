@@ -12,17 +12,6 @@
 
 ---
 
-### 🚀 ¿Por qué trabajar conmigo?
-Soy **Programador** con experiencia en varios lenguajes y tecnologías, como **Laravel**, **PHP**, **C#**, **Java** y **Kotlin**. Aunque algunos de estos los usé en proyectos universitarios, siempre me esforcé por ir más allá y aprender por mi cuenta. Me considero una persona autodidacta; desde antes de entrar a la universidad ya estaba probando cosas, como trabajar con **WordPress** o incluso aprender inglés jugando videojuegos en línea durante la secundaria. 
-
-Me gusta resolver problemas y siempre trato de mejorar mis habilidades, tanto técnicas como personales. Creo que tengo buenas habilidades de comunicación y trato de ser cada vez más asertivo. Además, me adapto fácilmente a nuevos desafíos y me desenvuelvo bien trabajando en equipo o de manera independiente. 
-
-En la universidad, por ejemplo, trabajé en un equipo de 4 personas para crear un **sistema de turnos unificado** para un consultorio dental. El proyecto incluía una aplicación web con **PHP, HTML, CSS y JS**, una aplicación de escritorio en **C#** y una app móvil que desarrollé yo mismo en **Kotlin**. Más tarde, para recibirme, hice un **ecommerce en Laravel** para una tienda de repuestos de motos, donde integré la API de **MercadoPago** para los pagos. 
-
-En cuanto a herramientas, estoy familiarizado con **VS Code**, **Visual Studio**, **Android Studio**, **Postman**, **HeidiSQL**, **Laragon**, entre otras. Siempre estoy abierto a aprender algo nuevo y mejorar en lo que ya sé.
-
----
-
 ### 💼 Experiencia destacada:
 - 🛠️ **Ecommerce con Laravel**: Desarrollo de un sistema de comercio electrónico para una tienda de repuestos de motos, integrando la API de MercadoPago para pagos en línea.
 - 🎓 **Proyecto universitario: Sistema de turnos unificado**: Lideré un equipo de 4 personas para crear un sistema integral que incluía:
