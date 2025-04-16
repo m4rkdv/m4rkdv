@@ -30,12 +30,6 @@
 
 ---
 
-### 📚 En constante aprendizaje:
-- Me mantengo actualizado con las últimas tendencias en desarrollo backend, especialmente en **Laravel**, **APIs RESTful** y **arquitecturas escalables**.
-- Fuera del código, disfruto del **desarrollo personal**, el entrenamiento en el gimnasio y la lectura de mangas.
-
----
-
 ### 🤝 Conéctate conmigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/marcos-castella-del-valle/" target="blank">
